@@ -1,3 +1,5 @@
+- Dan's modifications of the application
+
 # GP-Networks
 This repository contains code supporting the text "Bayesian classification, anomaly detection, and survival analysis using network inputs with application to the microbiome"
 
