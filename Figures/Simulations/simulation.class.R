@@ -8,11 +8,11 @@ library(class)
 library(graphclass)
 
 # Functions ----
-source("/R/rcorrER.R")
-source("/R/gp_functions.gibbs_slice.R")
-source("/R/dist.R")
-source("/R/gp_rw.gibbs.R")
-source("/R/mase.R")
+source("/Users/imagine/Desktop/GH/GP-Networks/R/rcorrER.R")
+source("/Users/imagine/Desktop/GH/GP-Networks/R/gp_functions.gibbs_slice.R")
+source("/Users/imagine/Desktop/GH/GP-Networks/R/dist.R")
+source("/Users/imagine/Desktop/GH/GP-Networks/R/gp_rw.gibbs.R")
+source("/Users/imagine/Desktop/GH/GP-Networks/R/mase.R")
 
 compare_classifiers <- function(m, n, mod) {
   

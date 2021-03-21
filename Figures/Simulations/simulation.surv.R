@@ -1,6 +1,6 @@
 # Functions ----
-source("/R/gp_functions.survival.R")
-source("/R/dist.R")
+source("/Users/imagine/Desktop/GH/GP-Networks/R/gp_functions.survival.R")
+source("/Users/imagine/Desktop/GH/GP-Networks/R/dist.R")
 
 # Simulation ----
 set.seed(575)

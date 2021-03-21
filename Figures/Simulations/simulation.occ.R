@@ -4,10 +4,14 @@ library(kernlab)
 library(graphkernels)
 
 # Functions ----
-source("/R/gp_functions.gibbs_slice.R")
-source("/R/dist.R")
-source("/R/gp_rw.gibbs.R")
-source("/R/gp_functions.occ.R")
+source("/Users/imagine/Desktop/GH/GP-Networks/R/gp_functions.gibbs_slice.R")
+source("/Users/imagine/Desktop/GH/GP-Networks/R/dist.R")
+source("/Users/imagine/Desktop/GH/GP-Networks/R/gp_rw.gibbs.R")
+source("/Users/imagine/Desktop/GH/GP-Networks/R/gp_functions.occ.R")
+
+
+
+
 
 # Data ----
 set.seed(575)
