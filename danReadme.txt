@@ -35,3 +35,10 @@ https://github.com/jesusdaniel/graphclass/
 *****
 
 >>>>>> source("/Users/imagine/Desktop/GH/GP-Networks/Figures/Simulations/simulation.class.R")
+
+
+
+
+- Which of the simulations can I run?
+
+
